@@ -68,5 +68,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 ## **Installing PIP On Windows**
 **REFER TO THIS LINK:** [Phoenixnap](https://phoenixnap.com/kb/install-pip-windows)
 
-# THANKYOU
+# THANKYOU :-)
 
