@@ -66,7 +66,7 @@ Python 3.7.0 (v3.7.0:1bf9cc5093, Jan 25 2019, 07:44:31) [MSC v.1914 64 bit (AMD6
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 ### **Installing PIP On Windows**
-**REFER TO THIS LINK:** [Phoenixnap](https://phoenixnap.com/kb/install-pip-windows)
+**REFER TO THIS LINK:** [pip install](https://phoenixnap.com/kb/install-pip-windows)
 
 # THANKYOU :-)
 
