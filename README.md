@@ -65,7 +65,7 @@ When Python is installed correctly, you should see:
 Python 3.7.0 (v3.7.0:1bf9cc5093, Jan 25 2019, 07:44:31) [MSC v.1914 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 ```
-## **Installing PIP On Windows**
+### **Installing PIP On Windows**
 **REFER TO THIS LINK:** [Phoenixnap](https://phoenixnap.com/kb/install-pip-windows)
 
 # THANKYOU :-)
