@@ -3,17 +3,18 @@ Dice is an ancient game. It was played before 2000 BC.
 Project is to simulate a random value from the given Dice range.
 
 ## Problem Statement
-In this Project we will create a Dice Rolling Game, also you can select the range in which you wish to play. 
-When the Program runs it will ask you, are you ready to play?  
-If you were ready, you first need to set the range in which the dice has to roll, then the random generate function will print your number. 
-You can play infinity number of times until you decide to quit the Game.
-Interesting lets move into it
+> * In this Project we will create a Dice Rolling Game, also you can select the range in which you wish to play. 
+* When the Program runs it will ask you, are you ready to play?  
+* If you were ready, you first need to set the range in which the dice has to roll, then the random generate function will print your number. 
+* You can play infinity number of times until you decide to quit the Game.
+* Interesting lets move into it
 
 ### Implemented Solution
 > I have implemented the Dice Rolling using a **Class** Named **Randomroll**. It will get inputs like **start_range**,**end_range**.
-> The Game begins with **Welcome to the Dice Rolling simulator** then it will ask **TO START: Enter any alphabet ; TO QUIT: Enter 'Q'**. 
-> If you type **Q** it will print **Thankyou for Playing :)**.Rather if you type any thing else like **PRESS ENTER**,**ANY ALPHABETS** and **ANY NUMBER**. It will proceed to next step and asks **Enter the Range:** where you have to select your range in which you wish to play the game.
-Then it will automatically produce a random value for you.
+> * The Game begins with **Welcome to the Dice Rolling simulator** then it will ask **TO START: Enter any alphabet ; TO QUIT: Enter 'Q'**. 
+> * If you type **Q** it will print **Thankyou for Playing :)**.Rather if you type any thing else like **PRESS ENTER**,**ANY ALPHABETS** and **ANY NUMBER**. 
+* It will proceed to next step and asks **Enter the Range:** where you have to select your range in which you wish to play the game.
+* Then it will automatically produce a random value for you.
 
 #### Running the CODE
 Code is written on a Windows,windows users can run it on Windows Terminals and **other users** can run it on their own terminals using their own commands **link reference for commands:** [COMMANDS](https://www.lemoda.net/windows/windows2unix/windows2unix.html), **Hence code might not run on other platforms** 
