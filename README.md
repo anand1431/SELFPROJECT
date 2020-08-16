@@ -10,9 +10,9 @@ You can play infinity number of times until you decide to quit the Game.
 Interesting lets move into it
 
 ### Implemented Solution
-I have implemented the Dice Rolling using a **Class** Named **Randomroll**. It will get inputs like **start_range**,**end_range**.
-The Game begins with **Welcome to the Dice Rolling simulator** then it will ask **TO START: Enter any alphabet ; TO QUIT: Enter 'Q'**. 
-If you type **Q** it will print **Thankyou for Playing :)**.Rather if you type any thing else like **PRESS ENTER**,**ANY ALPHABETS** and **ANY NUMBER**. It will proceed to next step and asks **Enter the Range:** where you have to select your range in which you wish to play the game.
+> I have implemented the Dice Rolling using a **Class** Named **Randomroll**. It will get inputs like **start_range**,**end_range**.
+> The Game begins with **Welcome to the Dice Rolling simulator** then it will ask **TO START: Enter any alphabet ; TO QUIT: Enter 'Q'**. 
+> If you type **Q** it will print **Thankyou for Playing :)**.Rather if you type any thing else like **PRESS ENTER**,**ANY ALPHABETS** and **ANY NUMBER**. It will proceed to next step and asks **Enter the Range:** where you have to select your range in which you wish to play the game.
 Then it will automatically produce a random value for you.
 
 #### Running the CODE
