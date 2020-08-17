@@ -1,6 +1,6 @@
 # SIMPLE DICE ROLLING SIMULATOR
 Dice is an ancient game. It was played before 2000 BC.  
-Project is to simulate a random value from the given Dice range.  
+This Project is to simulate a random value from the given Dice range.  
 
 ## Problem Statement
 In this Project we will create a Dice Rolling Game, also you can select the range in which you wish to play.   
